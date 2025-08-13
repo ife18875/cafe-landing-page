@@ -1,9 +1,8 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    background: #ffffff;       /* plain white background */
-    color: #000000;            /* solid black text */
-    line-height: 1.6;
+    background: #ffffff;       
+    color: #000000;            
 }
 
 .container {
@@ -13,14 +12,14 @@ body {
 }
 
 header {
-    background: #333333;       /* dark gray header/footer */
+    background: #333333;       
     color: white;
     text-align: center;
     padding: 30px 20px;
 }
 
 .hero {
-    background: #cccccc;       /* light gray hero background */
+    background: #cccccc;       
     color: black;
     text-align: center;
     padding: 60px 20px;
@@ -31,7 +30,7 @@ header {
 }
 
 .btn {
-    background: #555555;       /* medium gray button */
+    background: #555555;       
     color: white;
     padding: 10px 20px;
     text-decoration: none;
@@ -52,9 +51,15 @@ h2 {
 }
 
 footer {
-    background: #333333;       /* match header */
+    background: #333333;       
     color: white;
     text-align: center;
     padding: 15px;
     margin-top: 20px;
+}
+.hero-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 20px;
 }
